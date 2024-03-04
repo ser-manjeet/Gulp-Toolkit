@@ -38,7 +38,7 @@ If you have any suggestions, bug reports, or feature requests, feel free to open
 
 ## Support
 
-For support & customize, please feel free to reach us at [ser.manjeet@gmail.com](mailto:ser.manjeet@gmail.com).
+For support & customization, please feel free to contact us at [ser.manjeet@gmail.com](mailto:ser.manjeet@gmail.com).
 
 ---
 
