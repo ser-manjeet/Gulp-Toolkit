@@ -1,0 +1,12 @@
+@mixin reset-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+@mixin rtl($property, $ltr-value, $rtl-value) {
+    #{$property}: $ltr-value;
+  
+    [dir=rtl] & {
+        #{$property}: $rtl-value;
+    }
+}
